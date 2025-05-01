@@ -37,8 +37,7 @@ function App() {
           <div className="flex-grow-1">
             <h5>Stability & Tipping Test</h5>
             <p>
-              Short-Bot is designed to navigate crowded environments with dynamic stability. This demo highlights its structural robustness 
-              and responsive behavior when exposed to real-world tipping challenges.
+              Short-Bot is designed with a small footprint to navigate crowded environments. This demo highlights its ability to recover when exposed to real-world obstacles that might cause it to tip over.
             </p>
           </div>
         </div>
